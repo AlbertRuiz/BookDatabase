@@ -3,17 +3,22 @@ BookDatabase is an application for android that displays information about books
 
 # BookDatabase views
 ## Main view
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.12.21.png)
+![](images/mainview.png)
 
 ## Main menu
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.12.56.png)
+![](images/mainmenu.png)
+
 ## Add book
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/58890ae245e68810360a4875cfac6e8b30edef1d/Captura%20de%20pantalla%202018-08-28%20a%20las%2013.51.57.png)
+![](images/addbook.png)
+
 ## Search by author
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.18.53.png)
+![](images/authorsearch.png)
+
 ## Sort by category
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.20.43.png)
+![](images/sortcat.png)
+
 ## Modify your personal review of a book
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.19.17.png)
+![](images/modify.png)
+
 ## Help
-![](https://bitbucket.org/AlbertRL/propi_repositori/raw/64b69bc2cd866e4dc0c93dbf834256462984cd98/Captura%20de%20pantalla%202018-08-28%20a%20las%2012.13.54.png)
+![](images/help.png)
