@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">And015P2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="help"><![CDATA[<h1>   HELP</h1>
+<h3>  Vista Principal</h3>
+<p> La Vista Principal consisteix en una llista dels llibres que hi ha al sistema ordenats per títol.
+Si es vol <strong>esborrar un llibre</strong> només cal mantenir premut el element escollit en la llista
+i és mostrarà un misssatge de confirmació del esborrat. A més, si es prem momentaneament un element de la llista
+es mostrarà la valoració que té el llibre seleccionat.
+En la barra blava superior, si es prem en la icona de la lupa es pot realitzar una <strong>cerca per títol</strong>
+dels elements de la llista. Per <strong>afegir un nou llibre</strong> cal premer el botó flotant de color magenta amb
+el símbol +. Per <strong>accedir a més funcionalitats</strong> cal premer a la icona de les tres barres horitzontals en
+la barra blava superior o lliscar el dit des del extrem esquerra de la pantalla cap a la dreta, això mostrarà el llistat de
+les funcionalitats que ofereix el sistema.</p>
+<h4>IMPORTANT: Per tornar a la Vista Principal des de qualsevol finestra oberta només cal premer el botó magenta amb la icona X.</h4>
+<h3>  Afegir Nou Llibre</h3>
+<p> Per accedir a aquesta funcionalitat cal premer el botó magenta amb la icona + en la vista principal.
+Per introduir un nou llibre en el sistema cal emplenar tota la informació referent a les característiques del nou llibre,
+títol, autor, categoria, etc. Un cop tots els buits són plens cal premer el botó [AFEGIR LLIBRE] i el nou llibre ja formarà part
+del sistema.</p>
+<h3>  Llistar Llibres Ordenats per Categoria</h3>
+<p>Es mostra una llista de tots els llibres del sistema <strong>ordenats per categoria</strong>. Si es vol esborrar qualsevol element
+de la llista només cal premer sobre ell i es mostrarà el missatge de confirmació del esborrat.</p>
+<h3>  Modificar Valoració Personal</h3>
+<p>Es mostra una llista de tots els llibres del sistema ordenats per títol, si es vol <strong>modificar la valoració</strong> de un llibre determinat només cal
+premer sobre ell i confirmar que es vol modificar, després es mostrarà una pantalla en la que cal escollir la nova valoració del llibre i premer el botó de
+[MODIFICAR VALORACIÓ].</p>
+<h3>  Cercar Llibres per Autor</h3>
+<p>Es mostra una llista dels tots els llibres del sistema ordenats per autor, si es vol fer una <strong>cerca per autor</strong> només cal premer a la icona
+de la lupa en la part superior esquerra i introduir el nom del autor.</p>
+<h3>  Help</h3>
+<p>Mostra un manual explicatiu de totes les funcionalitats que té aquesta aplicació.</p>
+<h3>  About</h3>
+<p>Mostra autoria, versió i de més informació sobre el desenvolupament del software.</p>]]></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

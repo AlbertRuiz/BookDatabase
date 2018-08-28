@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.idi_ap.and015p2.CanviarValFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <!-- TODO: Update blank fragment layout -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Valoració Personal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/valpers"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:textSize="23sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+            <Spinner
+                android:layout_width="155dp"
+                android:layout_height="40dp"
+                android:id="@+id/spinnerValPers"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/buttonModif"
+                android:layout_width="200dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginLeft="90dp"
+                android:text="Modificar valoracio"
+                />
+
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="66dp"
+                android:layout_height="66dp"
+                android:layout_gravity="bottom|end"
+                android:layout_margin="16dp"
+                android:clickable="true"
+                app:srcCompat="@android:drawable/ic_menu_close_clear_cancel"
+                android:id="@+id/closeButton" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

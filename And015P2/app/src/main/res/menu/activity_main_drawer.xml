@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_llistar_categoria"
+            android:icon="@drawable/ic_action_name"
+            android:title="Llista per Categoria" />
+        <item
+            android:id="@+id/nav_Modificar"
+            android:icon="@drawable/ic_modificar_valoracio"
+            android:title="Modificar valoracio personal" />
+        <item
+            android:id="@+id/nav_Cerca_Autor"
+            android:icon="@drawable/ic_cerca_autors"
+            android:title="Cercar per autors" />
+
+    </group>
+
+    <item android:title="Manual d'usuari">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_action_help"
+                android:title="Help" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_action_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>
